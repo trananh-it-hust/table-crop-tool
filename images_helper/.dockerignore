@@ -1,0 +1,4 @@
+.venv
+src/models/*.pth
+__pycache__
+src/public/out

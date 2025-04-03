@@ -1,0 +1,13 @@
+opencv-python>=4.10.0.84
+numpy>=2.1.1
+scikit-learn===1.5.1
+# matplotlib===3.9.2
+# pytesseract===0.3.13
+Flask>=3.0.3
+Flask-Cors===5.0.0
+boto3===1.35.16
+python-dotenv===1.0.1
+torchvision>=0.19.1
+# easyocr
+openai>=0.26.5
+pillow>=10.4.0

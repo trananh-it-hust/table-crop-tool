@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+#root {
+  height: 100vh;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+td {
+  vertical-align: baseline;
+}
+
+img {
+  height: fit-content;
+}
